@@ -18,6 +18,13 @@ Navy (`#0F1E3D`), cream (`#F6F1E4`), and gold (`#C6A15B`) — sourced from [lrs.
 ## Stack
 React 18 + Vite + Tailwind CSS, `lucide-react` for icons, `@fontsource/reem-kufi` for the self-hosted display font (no runtime calls to any font/icon CDN).
 
+## Screenshots
+Desktop and mobile captures are in [`UI/`](UI/):
+
+| Desktop | Mobile |
+|---|---|
+| ![Desktop view](UI/desktop-landing.png) | ![Mobile view](UI/mobile-landing.png) |
+
 ## Running it locally
 ```bash
 npm install
